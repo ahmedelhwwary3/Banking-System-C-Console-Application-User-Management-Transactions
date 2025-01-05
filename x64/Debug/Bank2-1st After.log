@@ -1,0 +1,3 @@
+﻿  Bank2-1st After.cpp
+F:\Bank2-1st After\Bank2-1st After.cpp(51,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Bank2-1st After.vcxproj -> F:\Bank2-1st After\x64\Debug\Bank2-1st After.exe
