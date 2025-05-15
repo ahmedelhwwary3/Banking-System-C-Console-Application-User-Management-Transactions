@@ -66,12 +66,6 @@ A clean, modular, and educational C++ banking system designed with a focus on **
 
 ---
 
-## 📽️ Demo Video (Optional)
-
-*Add a YouTube or Google Drive link here if you'd like to include a demonstration.*
-
----
-
 ## 📦 More Projects
 
 🔗 I showcase this and other programming projects on my Telegram channel:  
